@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **10 + 10 is Twenty and 11 + 11 is Twenty too.**
 
-- ✍️ Quote **Programmer: A machine that turns coffe into code.**
+- ✍️ Quote **Programmer: A machine that turns coffee into code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
