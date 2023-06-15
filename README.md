@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **sujanshrestha0927@gmail.com**
 
-- ⚡ Fun fact **10 + 10 is Twenty and 11 + 11 is Twenty too.**
-
 - ✍️ Quote **Programmer: A machine that turns coffee into code.**
 
 <h3 align="left">Connect with me:</h3>
