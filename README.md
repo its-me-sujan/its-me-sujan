@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-sujan&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-sujan" /> </p>
 <img align="right" alt="Coding" width="400"
     src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-- 🌱 I’m currently learning <b>Data Science</b>
+<!-- - 🌱 I’m currently learning <b>Data Science</b> -->
 
 - 💬 Ask me about **Python**
 
