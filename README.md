@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Shrestha</h1>
-<h3 align="center">Computer Engineering Student exploring the limitless possibilities of the IT World</h3>
+<h3 align="center">Software Engineer exploring the limitless possibilities of the IT World</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-sujan&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-sujan" /> </p>
 <img align="right" alt="Coding" width="400"
